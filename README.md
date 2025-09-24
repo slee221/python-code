@@ -9,3 +9,4 @@
 =======
 # python-code practice
 >>>>>>> 1f99d87 (thrid commit)
+Hello, this is my first README!
